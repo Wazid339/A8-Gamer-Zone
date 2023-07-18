@@ -1,0 +1,143 @@
+@import url(<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,700&family=Open+Sans:ital,wght@0,400;0,500;0,800;1,300;1,400;1,800&family=Work+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">);
+*{
+    margin: 0px;
+    font-family: Work Sans;
+}
+.banner-title{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    width: 1320px;
+    height: 110px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
+}
+.text-color{
+text-align: center;
+color: #230213;
+font-size: 45px;
+font-weight: 700;
+}
+.pink{
+ color:  #ff42a5;
+}
+.banner{
+    display: flex;
+    gap: 30px;
+
+}
+.banner2{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.Logo{
+    width: 86.041px;
+    height: 40px;
+}
+.btn-primary{
+    width: 262px;
+    height: 56px;
+    margin-right: 10px;
+    padding-top: 17px;
+    padding-bottom: 18px;
+    padding-right: 10px;
+    border-radius: 8px;
+    background: rgba(11, 2, 35, 0.10);
+    color: #3C354F;
+    text-align: center;
+    font-size: 18px;
+    border: none;
+
+
+}
+.divsectioin{
+    display: flex;
+    
+
+}
+.banner-section{
+width: 901px;
+height: 700px;
+text-align: center;
+padding-top:  220px;
+fill: linear-gradient(223deg, rgba(140, 87, 238, 0.03) 0%, rgba(241, 68, 174, 0.03) 100%);
+background-image: url('/images/Group\ 14.png');
+
+}
+.h2{
+color: #0B0223;
+text-align: center;
+margin-top: 20px;
+font-size: 48px;
+font-weight: 600;
+text-transform: uppercase;
+
+}
+.h1{
+text-align: center;
+margin-top: 20px;
+font-size: 95px;
+font-weight: 800;
+text-transform: uppercase;
+background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+.h3.1{
+color: #534C64;
+text-align: center;
+margin-top: 20px;
+font-size: 20px;
+font-weight: 500;
+text-transform: lowercase;
+}
+.h3.2{
+color: #534C64;
+margin-top: 20px;
+font-size: 20px;
+font-weight: 500;
+}
+.h3.3{
+color: #534C64;
+margin-top: 20px;
+font-size: 20px;
+font-weight: 500;
+
+}
+.color-pink{
+color: #FFF;
+margin-top: 20px;
+font-size: 20px;
+font-weight: 600;
+text-transform: uppercase;
+display: inline-flex;
+padding: 21px 40px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 48px;
+border: none;
+background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+}
+.color-blue{
+color: #FFF;
+margin-top: 20px;
+font-size: 20px;
+font-weight: 600;
+text-transform: uppercase;
+display: inline-flex;
+padding: 21px 40px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 48px;
+border: none;
+background: #4EC5F7;
+}
+.img1{
+    padding-right: 60px;
+}
