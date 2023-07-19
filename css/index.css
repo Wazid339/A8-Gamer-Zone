@@ -270,7 +270,8 @@ background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     display: flex;
     justify-content: right;
     margin-top: 50px;
-    margin-left: 175px;
+    margin-left:180px;
+    margin-right: 80px;
 }
 .instantly{
 text-align: center;
@@ -342,8 +343,71 @@ color: #FF42A5;
     margin-top: 20px;
     gap: 20px;
 }
+.color{
+    color: #FFF;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+
+}
 .picture-part2{
 width: 1920px;
 height: 427px;
-background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
+
+
+}
+.foot{
+width: 1920px;
+height: 636px;
+background: #0B0223;
+
+}
+.footer-part{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-right: 450px;
+    gap: 20px;
+    
+
+}
+.footer-part2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-right: 450px;
+    padding: 10px;
+    gap: 60px;
+
+
+}
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    
+    margin-right: 450px;
+}
+.twitter{
+
+}
+.footer-part4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-right: 400px;
+    gap: 60px
+    ;
+}
+.ppp{
+color: rgba(255, 255, 255, 0.60);
+text-align: center;
+font-size: 16px;
+font-weight: 500;
+margin-right: 300px;
+margin-top: 80px;
 }
