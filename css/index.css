@@ -343,6 +343,11 @@ color: #FF42A5;
     margin-top: 20px;
     gap: 20px;
 }
+.white{
+    
+    color: #FFF;
+
+}
 .color{
     color: #FFF;
     text-align: center;
@@ -411,3 +416,155 @@ font-weight: 500;
 margin-right: 300px;
 margin-top: 80px;
 }
+
+
+
+
+
+@media screen and (max-width:576px) {
+
+    
+    .banner-title{
+      display: grid;
+      width: 620px;
+      height: auto;
+      margin-right: 1000px;
+        
+    } 
+    .banner-section{
+
+    }
+    
+.banner2{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+}
+.img1{
+    margin-top:0;
+    width: 550px;
+    height: auto;
+}
+.divsectioin{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+} 
+.banner-section{
+    width: 250px;
+    margin-top: 40px;
+    height: auto;
+}
+/* 2nd part of mobile view */
+.banner-section{
+    width: 620px;
+    height: auto;
+    margin-top: 0px;
+}
+.section-descriptiopn{
+    display: grid;
+    margin-left: 80px;
+    background-image: none;
+
+}
+   .chobi{
+    width: 520px;
+    height: auto;
+   }
+   .description{
+    padding-top: 20px;  
+}
+.p-title{
+    margin-left: 80px;
+}
+.purpose{
+    margin-top: 50px;
+    margin-left: 80px;
+    width: 300px;
+    font-size: 30px;
+}
+.another-h1{
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.another-p{
+    margin-left: 100px;
+}
+.div2{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+  
+
+}
+.picture4{
+    width: 400px;
+    height: auto;
+    margin-top: 40px;
+    margin-left: 40px;
+
+}
+.picture5 {
+    width: 400px;
+    height: auto;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.picture6 {
+    width: 400px;
+    height: auto;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.picture7 {
+    width: 400px;
+    height: auto;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.Play-Instantly{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    justify-content: center;
+    margin-left: 260px;
+}
+.instantly{
+        line-height: 60px;
+        margin-left: 35%;
+}
+.p-instantly{
+    margin-top: 50px;
+    margin-left: 35%;
+}
+.horse{
+    width: 300px;
+    height: auto;
+    margin-top: 40px;
+    margin-left: 10%;
+}
+.picture-part2{
+    width: 500px;
+    height: auto;
+}
+.foot{
+    margin-left: 30%;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+@media screen and (min-width:576) and (max-width:992) {
+
+    
+}
+
+
+
