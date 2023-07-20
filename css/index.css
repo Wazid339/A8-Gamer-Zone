@@ -242,6 +242,25 @@ line-height: 30px; /* 166.667% */
     gap: 20px;
 
 }
+/*play now icon*/
+.img-container{
+    position: relative;
+    display: inline-block;
+}
+.play-now{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 80px;
+    height: 80px;
+}
+
+
+
+
+
+
 .picture4{
 width: 250px;
 height: auto;
@@ -544,27 +563,16 @@ margin-top: 80px;
     width: 500px;
     height: auto;
 }
-.foot{
-    margin-left: 30%;
-}
-
-
-
-
-
-
-
-
 
 }
 
 
 
 
-@media screen and (min-width:576) and (max-width:992) {
 
-    
-}
+
+
+
 
 
 
