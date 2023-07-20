@@ -14,8 +14,8 @@
     justify-content: space-around;
     align-items: center;
     gap: 20px;
-    width: 1320px;
-    height: 110px;
+    width: 1920px;
+    height: 130px;
     background: #FFF;
     box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.05);
 }
@@ -60,16 +60,26 @@ font-weight: 700;
 }
 .divsectioin{
     display: flex;
+    width: 1920px;
+    height: auto;
     
 
 }
 .banner-section{
-width: 500px;
-height: 500px;
+width: 900px;
+height: 700px;
 text-align: center;
 padding-top:  150px;
 fill: linear-gradient(223deg, rgba(140, 87, 238, 0.03) 0%, rgba(241, 68, 174, 0.03) 100%);
 background-image: url('/images/Group\ 14.png');
+
+}
+/* /* picture-part2 * */
+.picture-part2{
+width: 1920px;
+height: 427px;
+margin-left: 25%;
+
 
 }
 .h2{
@@ -384,6 +394,7 @@ height: 427px;
 width: 1920px;
 height: 636px;
 background: #0B0223;
+padding-left: 10%;
 
 }
 .footer-part{
